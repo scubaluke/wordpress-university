@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/https://scubaluke.github.io/wordpress-university/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://scubaluke.github.io/wordpress-university/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>the best university ever created</description>
 	<lastBuildDate>Sun, 21 Feb 2021 20:11:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
